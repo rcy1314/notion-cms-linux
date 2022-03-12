@@ -1,5 +1,8 @@
 # linux服务器部署Notion站点
-**请先修改必要参数参数（如何修改请参考预览站中的栏目教程，已梳理的很详细了）
+**请先修改必要参数参数
+更详细的搭建教程（带教程视频）：https://mp.weixin.qq.com/s?__biz=MzUzODgyNDc5Ng==&mid=2247484376&idx=1&sn=c2edfa882337ae137b154447482e9e80&chksm=fad09aebcda713fd6fa0a2132ef48340da410ce4e80cafaeac7bdeeea44343ef70b05522a7cf#rd
+
+
 修改后再进行安装
 安装前确保已有Nodejs 的环境
 版本选择V14.17.6
