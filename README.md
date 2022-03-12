@@ -15,6 +15,8 @@ npm install -g pm2
 pm2 start npm --name mysite -- run start # --name 后面可以修改为你喜欢的名字
 ```
 **服务启动成功后，端口为 3000，再域名反代即可**
+
 初始代码来源：[https://github.com/zhimiaoli/nextjs-notion-blog ](https://github.com/zhimiaoli/nextjs-notion-blog )
 样式修改来源：[https://github.com/zhimiaoli/nextjs-notion-blog](https://github.com/zhimiaoli/nextjs-notion-blog)
-**本项目已带依赖模块，可一键安装
+
+**本项目已带依赖模块，可一键安装**
