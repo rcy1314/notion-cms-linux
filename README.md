@@ -10,7 +10,9 @@ npm run build
 ```
 ![image](https://cdn.jsdelivr.net/gh/rcy1314/tuchuang@main/NV/image.405k7s375o20.jpg)
 **pm2 持久化管理**
+```
 npm install -g pm2
+```
 **在项目目录下，启动进程**
 ```
 pm2 start npm --name mysite -- run start # --name 后面可以修改为你喜欢的名字
